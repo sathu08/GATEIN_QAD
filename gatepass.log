@@ -1,0 +1,14 @@
+2023-12-19 20:19:26,108 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:27:12,291 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:30:08,891 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:30:27,119 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:32:26,859 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:34:20,665 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:34:39,311 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:35:14,578 - ERROR - Error in handle_not_domestic_case: time data 'u' does not match format '%d/%m/%Y'
+2023-12-19 20:37:53,077 - ERROR - Error in handle_not_domestic_case: 'int' object is not iterable
+2023-12-20 07:11:02,553 - ERROR - Filtered data saved to: workfile.xlsx
+2024-04-09 15:14:35,659 - ERROR - Value not found.
+2024-04-09 15:14:35,660 - ERROR - Value not found for search_value1: HZ23091500169
+2024-04-09 15:14:49,364 - ERROR - Value not found.
+2024-04-09 15:14:49,364 - ERROR - Value not found for search_value1: VIIN23-A1108
